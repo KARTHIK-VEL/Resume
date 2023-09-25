@@ -23,9 +23,8 @@ This repository serves as a documentation of my Python programming journey. Here
 
 ## Projects
 
-### 1. [Web Scraping with Python](./web_scraping_project)
-   - A web scraping project that extracts data from websites using Python and BeautifulSoup.
-   - Includes sample code and a step-by-step guide.
+### 1. [Face-Mask-Detection-Using-Teachable-Machine](./https://github.com/KARTHIK-VEL/Face-Mask-Detection-Using-Teachable-Machine)
+   -
 
 
 
