@@ -26,6 +26,7 @@ This repository serves as a documentation of my Python programming journey. Here
 ### 1. [Face-Mask-Detection-Using-Teachable-Machine]()
    - Real-Time Alerts: Receive immediate alerts when individuals are detected without masks, enabling timely intervention.
    - Integration-Ready: Seamlessly integrate this system into existing security setups for enhanced monitoring and enforcement of mask-wearing policies.
+     
 **Repository Link:** [https://github.com/KARTHIK-VEL/Face-Mask-Detection-Using-Teachable-Machine](https://github.com/KARTHIK-VEL/Face-Mask-Detection-Using-Teachable-Machine)
 
 
