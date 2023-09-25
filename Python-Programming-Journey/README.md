@@ -23,7 +23,7 @@ This repository serves as a documentation of my Python programming journey. Here
 
 ## Projects
 
-### 1. [Face-Mask-Detection-Using-Teachable-Machine](./https://github.com/KARTHIK-VEL/Face-Mask-Detection-Using-Teachable-Machine)
+### 1. [Face-Mask-Detection-Using-Teachable-Machine](./Face-Mask-Detection-Using-Teachable-Machine)
    -
 
 
