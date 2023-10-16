@@ -29,6 +29,11 @@ This repository serves as a documentation of my Python programming journey. Here
      
 **Repository Link:** [https://github.com/KARTHIK-VEL/Face-Mask-Detection-Using-Teachable-Machine](https://github.com/KARTHIK-VEL/Face-Mask-Detection-Using-Teachable-Machine)
 
+### 1.Mask-R-CNN-Object-Detection
+
+     
+**Repository Link:** [https://github.com/KARTHIK-VEL/CODEBUGGED-AI-Mask-R-CNN-Object-Detection](https://github.com/KARTHIK-VEL/CODEBUGGED-AI-Mask-R-CNN-Object-Detection)
+
 
 ## Conclusion
 
